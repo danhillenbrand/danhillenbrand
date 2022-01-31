@@ -1,6 +1,6 @@
 
 ### Hello friends 👋
-### Check out Denver Open Source [here](https://www.meetup.com/DOSUG1/)
+### Check out Denver Open Source Users Group [here](https://www.meetup.com/DOSUG1/)
 
 <!--
 ![Sample image](https://www.freepsdbazaar.com/wp-content/uploads/2020/06/sky-replace/sun-rise/sunrise-19-freepsdbazaar.jpg)
